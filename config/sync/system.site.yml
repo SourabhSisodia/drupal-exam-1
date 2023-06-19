@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 3bddb5c2-02ee-477e-a183-858aca50b7e5
+name: Test
+mail: testingkeliye010@gmail.com
+slogan: ''
+page:
+  403: /node/2
+  404: /node/1
+  front: /node/11
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en

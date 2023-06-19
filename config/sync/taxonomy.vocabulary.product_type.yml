@@ -1,0 +1,8 @@
+uuid: 14fd3d35-4395-4d33-a0cb-9998d19e6610
+langcode: en
+status: true
+dependencies: {  }
+name: 'Product Type'
+vid: product_type
+description: 'List of all types of products'
+weight: 0

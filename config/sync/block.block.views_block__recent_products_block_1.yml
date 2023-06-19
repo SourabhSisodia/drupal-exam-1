@@ -1,0 +1,29 @@
+uuid: 298aeda9-b3f5-45a6-b3ff-a8f62d87e83c
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.recent_products
+  module:
+    - system
+    - views
+  theme:
+    - olivero
+id: views_block__recent_products_block_1
+theme: olivero
+region: content
+weight: -6
+provider: null
+plugin: 'views_block:recent_products-block_1'
+settings:
+  id: 'views_block:recent_products-block_1'
+  label: ''
+  label_display: visible
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /home

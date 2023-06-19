@@ -1,0 +1,17 @@
+uuid: f316a75f-d3af-4095-9cef-a43094d2044b
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: News
+type: news
+description: 'Use News Content Type to create any news'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
